@@ -6,5 +6,5 @@
 cd out/android_debug_unopt
 ninja -C .
 cd ../host_debug_unopt
-ninjia -C .
+ninja -C .
 
